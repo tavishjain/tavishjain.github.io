@@ -101,6 +101,7 @@ Start of the navigation bar at the top.
 	letter-spacing: 1px;
 	border-radius: 0.25rem;
 	margin-left: 2vw;
+	margin-right: 2vw;
 	box-shadow: 5px 5px 25px 0 rgba(46, 61, 73, .28);
 	transition: all 0.3s ease;
 }
@@ -290,7 +291,7 @@ Start of the services provided section.
 .cert img {
 	height: 38vh;
 	padding-right: 2vw;
-	padding-left: 4vw;
+	padding-left: 2vw;
 }
 
 .ser_col {
