@@ -231,7 +231,7 @@ hr {
     box-shadow: 8px 10px 20px 0 rgba(46, 61, 73, .28);
 }
 
-#see {
+/* #see {
     width: 15rem;
     border: 0.125rem solid transparent;
     background-color: #00AEEF;
@@ -247,7 +247,7 @@ hr {
     border-radius: 0.375rem;
     transition: all 0.3s ease;
     box-shadow: 8px 10px 20px 0 rgba(46, 61, 73, .28);
-}
+} */
 
 #download:focus {
     box-shadow: 2px 2.5px 5px 0 rgba(46, 61, 73, .2);
