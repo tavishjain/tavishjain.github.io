@@ -283,10 +283,10 @@ Start of the services provided section.
 	font-weight: bolder;
 }
 
-.design,
-.develop,
-.deploy {
-	width: 100%
+.cert {
+	width: 100%;
+	padding-right: 2vw;
+	padding-left: 2vw;
 }
 
 .ser_col>div>h3 {
@@ -468,9 +468,9 @@ Applying break-points
 	.icon {
 		margin-top: 2vh;
 	}
-	.design,
-	.develop,
-	.deploy {
+	.cert {
+		padding-right: 2vw;
+		padding-left: 2vw;
 		width: 33.33%;
 	}
 	#cta_desc {
