@@ -284,7 +284,8 @@ Start of the services provided section.
 }
 
 .cert {
-	width: 100%;
+	width: 100vw;
+	height: 20vh;
 	padding-right: 2vw;
 	padding-left: 2vw;
 }
@@ -471,7 +472,8 @@ Applying break-points
 	.cert {
 		padding-right: 2vw;
 		padding-left: 2vw;
-		width: 33.33%;
+		height: 20vh;
+		width: 33.3vw;
 	}
 	#cta_desc {
 		font-weight: bolder;
