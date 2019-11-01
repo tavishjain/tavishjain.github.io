@@ -5,67 +5,6 @@ body {
   font-size: 16px;
   font-weight: 300; }
 
-  /* Honors section start*/
-
-  .cert {
-    width: 100%;
-  }
-  
-  .cert img {
-    height: 38vh;
-    padding-right: 2vw;
-    padding-left: 2vw;
-  }
-
-  .sp_text {
-    width: 100%;
-  }
-  
-  .sp_text>h1 {
-    color: #00AEEF;
-    background-color: #FFFFFF;
-    margin-bottom: 6vh;
-    font-weight: bolder;
-  }
-
-  .ser_col {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
-  .ser_col>div>h3 {
-    font-size: 1.5em;
-    background-color: #FFFFFF;
-    padding-left: 3vw;
-    padding-right: 3vw;
-    margin-bottom: 2vh;
-    font-weight: lighter;
-    letter-spacing: 1px;
-    line-height: 1.56em;
-  }
-  
-  .ser_col p {
-    padding-left: 8vw;
-    padding-right: 8vw;
-    letter-spacing: 1px;
-    line-height: 1.44em;
-  }
-  @media screen and (min-width: 768px) {
-    .cert {
-      width: 33.3%;
-    }
-    .sp_text>h1 {
-      margin-top: 4vh;
-    }
-    .ser_col p {
-      padding-left: 2vw;
-      padding-right: 2vw;
-    }
-  }
-
-  /* Honors section end*/
-
 .p1-gradient-bg, .thumb .overlay-bg {
   background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
   background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
@@ -100,7 +39,7 @@ a {
   transition: .3s all;
   color: #404e52; }
   a:hover, a:focus, a:active {
-    color: #404e52;
+    color: #4ebe2a;
     text-decoration: none; }
 
 .parent-nav-link-padding, .site-navbar .navbar-nav > li > a {
@@ -336,7 +275,7 @@ a {
   .btn.btn-primary {
     color: #fff; }
     .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-      background: #404e52; }
+      background: #4ebe2a; }
 
 .progress {
   overflow: visible;
@@ -402,7 +341,7 @@ a {
       font-size: 12px;
       text-transform: uppercase;
       color: #cccccc; }
-      
+
 /*--------- Start Portfolio Area -------------*/
 .portfolio-area .primary-btn {
   color: #fff;

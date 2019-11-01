@@ -308,7 +308,7 @@
       });
 
 
-      if(document.getElementById("section-portfolio")){
+      if(document.getElementById("section-work")){
             var $grid = $(".grid").isotope({
               itemSelector: ".all",
               percentPosition: true,
