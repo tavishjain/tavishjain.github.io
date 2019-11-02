@@ -5,6 +5,88 @@ body {
   font-size: 16px;
   font-weight: 300; }
 
+  /* Honor Style start*/
+
+  .ser_col {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .ser_col>div>h3 {
+    font-size: 1.5em;
+    background-color: #FFFFFF;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    margin-bottom: 2vh;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    line-height: 1.56em;
+  }
+
+  .all_text {
+    color: #5c5a5a;
+  }
+  
+  .ser_col p {
+    padding-left: 8vw;
+    padding-right: 8vw;
+    letter-spacing: 1px;
+    line-height: 1.44em;
+  }
+
+  .sp_text {
+    width: 100%;
+  }
+  
+  .sp_text>h1 {
+    color: #00AEEF;
+    background-color: #FFFFFF;
+    margin-bottom: 6vh;
+    font-weight: bolder;
+  }
+  
+  .cert {
+    width: 100%;
+  }
+  
+  .cert img {
+    height: 38vh;
+    left:50%;
+    padding-right: 2vw;
+    padding-left: 0vw;
+  }
+
+  .badge {
+    width: 100%;
+  }
+  
+  .badge img {
+    height: 40vh;
+    padding-right: 0vw;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+    padding-left: 0vw;
+  }
+
+  @media screen and (min-width: 768px) {
+    .ser_col p {
+      padding-left: 2vw;
+      padding-right: 2vw;
+    }
+    .sp_text>h1 {
+      margin-top: 4vh;
+    }
+    .cert {
+      width: 30%;
+    }
+    .badge {
+      width: 30%;
+    }
+  }
+
+  /* Honor Style end*/
+
 .p1-gradient-bg, .thumb .overlay-bg {
   background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
   background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
@@ -213,11 +295,11 @@ a {
   margin-bottom: 50px;
   background: #edf0f2;
   background: #404e52;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   position: relative;
   border-radius: 50%;
-  margin: 0 auto 30px auto; }
+  margin: 0 auto 100px auto; }
   .site-service-item .icon span {
     font-size: 40px;
     color: #080b0e;
