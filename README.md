@@ -1,3 +1,3 @@
-# Jianchao's Website
+# Tavish's Website
 
-This is the repository for [my website](https://jianchao-li.github.io).
+This is the repository for [my website](https://tavishjain.github.io).
