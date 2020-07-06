@@ -3,109 +3,137 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tavishjain.github.io/post/interpret-pytorch-models-with-captum/</loc>
-    <lastmod>2020-02-29T10:49:18+08:00</lastmod>
+    <loc>/post/gsoc-2020/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/</loc>
-    <lastmod>2020-02-29T10:49:18+08:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/post/</loc>
-    <lastmod>2020-02-29T10:49:18+08:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/post/from-pytorch-to-coreml/</loc>
-    <lastmod>2019-10-16T01:00:18+08:00</lastmod>
+    <loc>/project/nearby-connections/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/post/connecting-computer-vision-and-natural-language/</loc>
-    <lastmod>2018-11-27T15:36:00+08:00</lastmod>
+    <loc>/tag/flutter/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/post/killing-pytorch-multi-gpu-training-the-safe-way/</loc>
-    <lastmod>2018-11-02T14:58:10+08:00</lastmod>
+    <loc>/project/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/post/understanding-fully-convolutional-networks/</loc>
-    <lastmod>2018-09-15T19:29:22+08:00</lastmod>
+    <loc>/project/putaway/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/post/a-dive-into-visual-question-answering/</loc>
-    <lastmod>2018-08-27T14:34:35+08:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/post/playing-with-image-captioning/</loc>
-    <lastmod>2018-08-08T20:12:45+08:00</lastmod>
+    <loc>/tag/web/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/publication_types/1/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/project/flutter-clock/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/authors/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/project/eventhub/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/authors/canxiang-yan/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/project/music-vid-recorder/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/authors/dan-wang/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/tag/other/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/authors/tavishjain/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/project/activity-do/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/publication/icip-15/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/tag/android/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/publication_types/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/project/jigsaw-camera-puzzle/</loc>
+    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/publication/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/project/flutter-portfolio/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/authors/shiguang-shan/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/project/flow-chart-maker/</loc>
+    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/authors/admin/</loc>
+    <loc>/project/monoply-money-game/</loc>
+    <lastmod>2017-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/categories/</loc>
+    <loc>/project/automation-fb/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/talk/</loc>
+    <loc>/project/unity-endless-runner/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tavishjain.github.io/tags/</loc>
+    <loc>/tag/python/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/prerak-mann/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
   </url>
   
 </urlset>
