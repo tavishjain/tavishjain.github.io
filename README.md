@@ -1,37 +1,41 @@
-# mannprerak2.github.io
+# OctoProfile
 
-My Portfolio Website
+A nicer look at your GitHub Profile! With charts!
 
-The [Project](./project) folder contains all the revelant source code.
+![demo](https://raw.githubusercontent.com/bchiang7/octoprofile/master/static/og.png)
 
-This website is built using Hugo (Academic Theme)
+Built with:
 
+- [Next.js](https://nextjs.org/)
+- [GitHub Polyglot](https://github.com/IonicaBizau/node-gh-polyglot)
+- [Chart.js](https://www.chartjs.org/)
+- [React Flip Move](https://github.com/joshwcomeau/react-flip-move)
+- [Styled Components](https://www.styled-components.com/)
 
-## HELP (Quick tips for later) -
+## Getting Started
 
-### Init Repo (setup after cloning)
-```bash
-cd project
-git submodule update --init --recursive
-```
+1. Install dependencies
 
-### Deploying (on user gh-pages, master branch) -
-```bash
-./deploy.sh
-git add .
-git commit -m "built"
-git push
-```
+   ```bash
+   yarn
+   ```
 
-### Updating Info
-- Resume - [./project/static/files/Resume.pdf](./project/static/files/Resume.pdf)
+2. Fire up the server and watch files
 
-- Avatar - [./project/content/author/mannprerak2/avatar.png](./project/content/author/mannprerak2/avatar.png)
+   ```bash
+   npm run dev
+   ```
 
-- Navigation Menu - [./project/config/_default/menus.toml](./project/config/_default/menus.toml)
+## Deployment
 
-### Turn on/off widgets
-Set `active=false/true` in widgets (in project/content/home folder)
+1. Install the Now CLI
 
-### Adding Posts to blog
-Just add a folder with `index.md` and `featured.png` to [./project/content/post](./project/content/post)
+   ```bash
+   npm install -g now
+   ```
+
+2. Deploy!
+
+   ```bash
+   now
+   ```
