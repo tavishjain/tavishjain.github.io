@@ -269,5 +269,5 @@ $.get("js/profile.json",
 		loadEducations(profile.educations);
 		loadMoghysSays();
 		console.log('body loaded calling');
-		onBodyLoad();
+		// onBodyLoad();
 });
