@@ -248,13 +248,13 @@ $.get("js/profile.json",
 			<li class="tab col s2"><a href="#skills">Skills</a></li>
 			<li class="tab col s2"><a href="#projects">Projects</a></li>
 		`);
-		// $('#believe').html('<h4>I believe</h4><span></span>');
-		// const typed = new Typed('#believe span', {
-		// 	strings: profile.qoutes,
-		// 	typeSpeed: 40,
-		// 	cursorChar:"_",
-		// 	loop:true
-		// });
+		$('#believe').html('<h4>I believe</h4><span></span>');
+		const typed = new Typed('#believe span', {
+			strings: profile.qoutes,
+			typeSpeed: 40,
+			cursorChar:"_",
+			loop:true
+		});
 		loadLikes(profile.likes);
 		$('#helloText').html(profile.helloText);
 		loadLinks(profile.profileLinks);
