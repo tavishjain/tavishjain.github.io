@@ -70,7 +70,10 @@ function loadEducations(educations){
 	var i=0,j;
 	var educationsInnerHTML = '';
 	for(i=0;i<educations.length;i++){
-		education = '<div class="row education"><div class="col m6 s12">					<div class="row title">'+educations[i].course+'<hr></div><div class="row">'+educations[i].periodStart+'-'+educations[i].periodEnd+'</div><div class="row">'+educations[i].inst+'</div><div class="row">'+educations[i].board+'</div>		<div class="row">Scored: '+educations[i].score+'</div></div><div class="col m6 s12 details"><ul class="collapsible" data-collapsible="accordion"><li><div class="collapsible-header"><i class="material-icons">view_list</i>Completed following Core courses</div><div class="collapsible-body">';
+		education = '<div class="row education"><div class="col m6 s12"><div class="row title">'+educations[i].course+
+						'<hr></div><div class="row">'+educations[i].periodStart+'-'+educations[i].periodEnd+'</div><div class="row">'+
+						educations[i].inst+'</div><div class="row">'+educations[i].board+'</div><div class="row">Scored: '+educations[i].score+
+						'</div></div><div class="col m6 s12 details"><ul class="collapsible" data-collapsible="accordion"><li><div class="collapsible-header"><i class="material-icons">view_list</i>Completed following Core courses</div><div class="collapsible-body">';
 		var courses = educations[i].courses;
 		courses.sort(function(a,b){
 			return a.sn-b.sn;
@@ -95,7 +98,7 @@ function loadLinks(profileLinks){
 	while(i<profileLinks.length){
 		profileLinksInnerHTML+='<div class="row">'
 		for(j=i;j<profileLinks.length&&j<i+5;j++){
-			profileLinksInnerHTML+='<div class="col s2">													<a href="'+profileLinks[j].link+'" target="_blank" >					<img src="img/'+profileLinks[j].icon+'" alt="'+profileLinks[j].name+'">															</a></div>';
+			profileLinksInnerHTML+='<div class="col s2"><a href="'+profileLinks[j].link+'" target="_blank" ><img src="img/'+profileLinks[j].icon+'" alt="'+profileLinks[j].name+'">															</a></div>';
 		}
 		profileLinksInnerHTML+='</div>';
 		i=j;
@@ -198,32 +201,32 @@ var profile;
 // });
 
 
-function loadMoghysSays() {
-	const tavishSaysInnerHtml = `<div class="col m6">
-	</div>
-	<div class="col m6">
-		<h6>Warm Gratitudes</h6>
-		<div class="row">
-			<div class="col m3 s3"><a href="https:https://pages.github.com/">Github Pages</a></div>
-			<div class="col m3 s3"><a href="https://stackoverflow.com/">Stack Overflow</a></div>
-			<div class="col m3 s3"><a href="https://jquery.com/">jQuery</a></div>
-			<div class="col m3 s3"><a href="http://materializecss.com/">Materialize</a></div>
-		</div>
-		<div class="row">
-			<div class="col m3 s3"><a href="https://fonts.google.com/">Google Fonts</a></div>	
-			<div class="col m3 s3"><a href="http://konpa.github.io/devicon/">Devicons</a></div>
-			<div class="col m3 s3"><a href="http://www.flaticon.com/">Flaticons</a></div>
-			<div class="col m3 s3"><a href="https://simpleicons.org/">SimpleIcons</a></div>				
-		</div>
-		<div class="row">
-			<div class="col m3 s3"><a href="http://noraesae.github.io/perfect-scrollbar/">Perfect Scrollbar</a></div>
-			<div class="col m3 s3"><a href="http://www.mattboldt.com/demos/typed-js/">TypedJs</a></div>					
-			<div class="col m3 s3"><a href="https://daneden.github.io/animate.css/">Animate.CSS</a></div>
-			<div class="col m3 s3"><a href="http://t4t5.github.io/sweetalert/">Sweetalert</a></div>
-		</div>
-	</div>`;
-	$('#tavishSays').html(tavishSaysInnerHtml);
-}
+// function loadMoghysSays() {
+// 	const tavishSaysInnerHtml = `<div class="col m6">
+// 	</div>
+// 	<div class="col m6">
+// 		<h6>Warm Gratitudes</h6>
+// 		<div class="row">
+// 			<div class="col m3 s3"><a href="https:https://pages.github.com/">Github Pages</a></div>
+// 			<div class="col m3 s3"><a href="https://stackoverflow.com/">Stack Overflow</a></div>
+// 			<div class="col m3 s3"><a href="https://jquery.com/">jQuery</a></div>
+// 			<div class="col m3 s3"><a href="http://materializecss.com/">Materialize</a></div>
+// 		</div>
+// 		<div class="row">
+// 			<div class="col m3 s3"><a href="https://fonts.google.com/">Google Fonts</a></div>	
+// 			<div class="col m3 s3"><a href="http://konpa.github.io/devicon/">Devicons</a></div>
+// 			<div class="col m3 s3"><a href="http://www.flaticon.com/">Flaticons</a></div>
+// 			<div class="col m3 s3"><a href="https://simpleicons.org/">SimpleIcons</a></div>				
+// 		</div>
+// 		<div class="row">
+// 			<div class="col m3 s3"><a href="http://noraesae.github.io/perfect-scrollbar/">Perfect Scrollbar</a></div>
+// 			<div class="col m3 s3"><a href="http://www.mattboldt.com/demos/typed-js/">TypedJs</a></div>					
+// 			<div class="col m3 s3"><a href="https://daneden.github.io/animate.css/">Animate.CSS</a></div>
+// 			<div class="col m3 s3"><a href="http://t4t5.github.io/sweetalert/">Sweetalert</a></div>
+// 		</div>
+// 	</div>`;
+// 	$('#tavishSays').html(tavishSaysInnerHtml);
+// }
 
 $.get("js/profile.json", 
 	function(data, status){
@@ -240,10 +243,10 @@ $.get("js/profile.json",
 		$('#summary').html(profile.summary);
 		$('#tabs').html(`					
 			<li class="tab col s2"><a href="#hello">Hello</a></li>
-			<li class="tab col s2"><a href="#skills">Skills</a></li>
-			<li class="tab col s2"><a href="#projects">Projects</a></li>
 			<li class="tab col s3"><a href="#experience">Experience</a></li>
 			<li class="tab col s3"><a href="#education">Education</a></li>
+			<li class="tab col s2"><a href="#skills">Skills</a></li>
+			<li class="tab col s2"><a href="#projects">Projects</a></li>
 		`);
 		// $('#believe').html('<h4>I believe</h4><span></span>');
 		// const typed = new Typed('#believe span', {
@@ -255,11 +258,9 @@ $.get("js/profile.json",
 		loadLikes(profile.likes);
 		$('#helloText').html(profile.helloText);
 		loadLinks(profile.profileLinks);
-		loadSkills(profile.skills);
-		loadProjects(profile.projects);
 		loadWorks(profile.experince);
 		loadEducations(profile.educations);
-		loadMoghysSays();
-		console.log('body loaded calling');
+		loadSkills(profile.skills);
+		loadProjects(profile.projects);
 		onBodyLoad();
 });

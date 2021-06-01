@@ -58,14 +58,34 @@
   ],
   "experince": [
     {
-      "sn": -1,
+      "sn": 0,
       "link": "",
-      "workPosition": "Scout Troop Leader",
-      "periodStart": "April 2010",
-      "periodEnd": "May 2012",
-      "organisation": "JNV,Washim",
+      "workPosition": "Software Engineering Intern",
+      "periodStart": "June 2020",
+      "periodEnd": "November 2021",
+      "organisation": "Samsung R&D Institute (SRIN)",
       "experience": "It was nice to be a part of Scouting.Arranged camps,hikes and awareness rallies.",
-      "type": "volunteer"
+      "type": ""
+    }
+    {
+      "sn": 1,
+      "link": "",
+      "workPosition": "Machine Learning Researcher",
+      "periodStart": "August 2019",
+      "periodEnd": "May 2020",
+      "organisation": "Delhi Technological University",
+      "experience": "It was nice to be a part of Scouting.Arranged camps,hikes and awareness rallies.",
+      "type": ""
+    }
+    {
+      "sn": 2,
+      "link": "",
+      "workPosition": "Software Engineering Intern",
+      "periodStart": "December 2019",
+      "periodEnd": "January 2020",
+      "organisation": "The Energy and Resources Institute, India",
+      "experience": "It was nice to be a part of Scouting.Arranged camps,hikes and awareness rallies.",
+      "type": ""
     }
   ],
   "projects": [
