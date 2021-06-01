@@ -263,4 +263,5 @@ $.get("js/profile.json",
 		loadSkills(profile.skills);
 		loadProjects(profile.projects);
 		onBodyLoad();
+		loadMoghysSays();
 });
