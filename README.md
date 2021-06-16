@@ -1,37 +1,16 @@
-# tavishjain.github.io
-
-My Portfolio Website
-
-The [Project](./project) folder contains all the revelant source code.
-
-This website is built using Hugo (Academic Theme)
+[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
+![Star this repository](https://img.shields.io/github/stars/rbhatia46/React-Portfolio?style=social)
 
 
-## HELP (Quick tips for later) -
+A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
-### Init Repo (setup after cloning)
-```bash
-cd project
-git submodule update --init --recursive
-```
+## Preview
+![Preview](https://image.ibb.co/e5uBf0/Capture.png)
 
-### Deploying (on user gh-pages, master branch) -
-```bash
-./deploy.sh
-git add .
-git commit -m "built"
-git push
-```
+## How to use
+1. Clone/Download the repo.
+2. Run  ``` npm install ```.
+3. Change the values in ```src/resumeData.js``` to suit your use-case.
+4. Run ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
+5. Make required changes in ```src/resumeData.js``` to suit your needs.
 
-### Updating Info
-- Resume - [./project/static/files/Resume.pdf](./project/static/files/Resume.pdf)
-
-- Avatar - [./project/content/author/mannprerak2/avatar.png](./project/content/author/mannprerak2/avatar.png)
-
-- Navigation Menu - [./project/config/_default/menus.toml](./project/config/_default/menus.toml)
-
-### Turn on/off widgets
-Set `active=false/true` in widgets (in project/content/home folder)
-
-### Adding Posts to blog
-Just add a folder with `index.md` and `featured.png` to [./project/content/post](./project/content/post)
