@@ -2553,8 +2553,10 @@ hr {
   position: relative;
 }
 .portfolio .portfolio-box .portfolio-img {
+  padding: 10px;
   position: relative;
-  overflow: hidden;
+  /* display:inline; */
+  /* overflow: h; */
 }
 .portfolio .portfolio-box .portfolio-overlay {
   text-align: center;
@@ -2576,17 +2578,19 @@ hr {
 .portfolio .portfolio-box .portfolio-img img {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+  /* overflow:auto */
 }
 .portfolio .portfolio-box:hover .portfolio-img img {
   -webkit-filter: blur(2px);
   filter: blur(2px);
-  -webkit-transform: scale(1.03);
-  transform: scale(1.03);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  /* overflow:auto */
 }
 .portfolio .portfolio-box .portfolio-overlay-details {
+  padding:0.5em;
   width: 100%;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin:0.5em
 }
 .portfolio .portfolio-details {
   padding: 1.5rem 0;
