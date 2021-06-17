@@ -2559,7 +2559,7 @@ hr {
   /* overflow: h; */
 }
 .portfolio .portfolio-box .portfolio-overlay {
-  text-align: center;
+  text-align: justify;
   display: -ms-flexbox !important;
   display: flex !important;
   position: absolute;
@@ -2578,14 +2578,14 @@ hr {
 .portfolio .portfolio-box .portfolio-img img {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  /* overflow:auto */
+  align-items: center;
 }
 .portfolio .portfolio-box:hover .portfolio-img img {
   -webkit-filter: blur(2px);
   filter: blur(2px);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
-  /* overflow:auto */
+  align-items: center;
 }
 .portfolio .portfolio-box .portfolio-overlay-details {
   padding:0.5em;
