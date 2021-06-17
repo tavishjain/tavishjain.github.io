@@ -2597,6 +2597,21 @@ hr {
   text-align: center;
 }
 
+.custom_projects{
+  font-size: 21px !important; 
+  font-size: 1.3125rem !important;  
+  position: absolute;
+  bottom: 50px;
+  text-align: center;
+  /* right: 20px; */
+  width: 100%;
+  margin: 0 auto;
+  background-color: rgba(76, 175, 80, 0.0);
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 .ajax-container {
   position: relative;
   background: #FFF;
