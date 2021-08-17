@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Tavish Jain</title>
+  <title>Parth Sharma</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -38,14 +38,14 @@
 
     <nav id="navbar" class="navbar nav-menu">
       <ul>
-        <li><a href="index.html#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
-        <li><a href="index.html#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
-        <li><a href="index.html#skills" class="nav-link scrollto"><i class='bx bx-code-block'></i> <span>Skills</span></a></li>
-        <li><a href="index.html#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
-        <li><a href="index.html#frameworks" class="nav-link scrollto"><i class='bx bx-code-alt'></i> <span>Frameworks</span></a></li>
-        <li><a href="index.html#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
+        <li><a href="apple-touch-icon.png#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+        <li><a href="apple-touch-icon.png#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
+        <li><a href="apple-touch-icon.png#skills" class="nav-link scrollto"><i class='bx bx-code-block'></i> <span>Skills</span></a></li>
+        <li><a href="apple-touch-icon.png#frameworks" class="nav-link scrollto"><i class='bx bx-code-alt'></i> <span>Frameworks</span></a></li>
+        <li><a href="apple-touch-icon.png#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
+        <li><a href="apple-touch-icon.png#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
         <!-- <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li> -->
-        <li><a href="index.html#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
+        <li><a href="apple-touch-icon.png#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
       </ul>
     </nav><!-- .nav-menu -->
 
@@ -53,12 +53,12 @@
 
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
-      <h1>Tavish Jain</h1>
-      <p>I'm a <span class="typed" data-typed-items="Software Developer | Researcher"></span></p>
+      <h1>Parth Sharma</h1>
+      <p>I'm a <span class="typed" data-typed-items="Software Developer"></span></p>
       <div class="social-links">
-        <a href="https://github.com/tavishjain"  target="_blank" class="github"><i class='bx bxl-github'></i></a>
-        <a href="https://www.linkedin.com/in/tavishjain"  target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-        <a href="https://twitter.com/iAmTavishJain"  target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="https://github.com/ParthSharma99"  target="_blank" class="github"><i class='bx bxl-github'></i></a>
+        <a href="https://www.linkedin.com/in/parth-sharma99/"  target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://twitter.com/ParthSharma__"  target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
       </div>
     <div id="mode-btns">
       
@@ -90,10 +90,8 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>I am a Software Engineer specializing in Backend Development, Deep Learning and Machine Learning. <br>
-            I have a keen interest in software development and love to work on different applications. I am a driven and passionate individual, <br>
-            interested in working on intriguing ideas with enthusiastic team in a competitive and collaborative environment<br>
-            Looking for Software Engineering and Machine Learning Engineer roles</p>
+          <p>I have a keen interest in software development and love to work on different applications. I am a driven and passionate individual,
+            interested in working on intriguing ideas with enthusiastic team in a competitive and collaborative environment</p>
         </div>
 
         <!-- <div class="row">
@@ -197,44 +195,30 @@
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">C++ <i class="val"></i></span>
+              <span class="skill">Python <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">SQL <i class="val"></i></span>
+              <span class="skill">C++ <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Machine Learning <i class="val"></i></span>
+              <span class="skill">Java (Android Studio) <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Tensorflow <i class="val"></i></span>
+              <span class="skill">C# (Unity) <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Android Development (Java) <i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Azure DevOps <i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -243,37 +227,23 @@
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">Python <i class="val"></i></span>
+              <span class="skill">HTML/CSS <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Git <i class="val"></i></span>
+              <span class="skill">ReactJS <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Deep Learning<i class="val"></i></span>
+              <span class="skill">JavaScript <i class="val">85%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Pytorch <i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Google Cloud Platform <i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -282,106 +252,7 @@
         </div>
 
       </div>
-    </section>
-    
-    <!-- End Skills Section -->
-
-    <!-- ======= Resume Section ======= -->
-    <section id="resume" class="resume">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Resume</h2>
-          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
-        </div>
-
-        <div class="row">
-          <div class="col-lg-6">
-            <h3 class="resume-title">Education</h3>
-            <div class="resume-item">
-              <h4>Bachelor of Technology - Software Engineering (2017 - 2021)</h4>
-              <!-- <h5>2017 - 2021</h5> -->
-              <p><em>Delhi Technological University, Delhi, IN</em></p>
-              <p>GPA : 8.9</p>
-            </div>
-            <div class="resume-item">
-              <h4>AISSCE - PCM Computer Science (2005 - 2017)</h4>
-              <!-- <h5>2005 - 2017</h5> -->
-              <p><em>Lancer's Convent Sr. Sec. School, Delhi, IN</em></p>
-              <p>Aggregate : 92%</p>
-            </div>
-            <h3 class="resume-title">Research Projects</h3>
-            <div class="resume-item pb-0">
-              <h4>Handwriting Recognition for Medical Prescriptions using a CNN-Bi-LSTM Model</h4>
-              <p><em>Devised a medical prescription detection technique based on Deep Learning. Built a CRNN model with Connectionist Temporal Classification. We also devised a data preprocessing technique, wherein the input image is grayscaled, blurred(gaussian) and dilated to extract text line by line, which is fed as inputs to the deep learning model. A full paper has been accepted at the IEEE 6th International Conference for Convergence in Technology</em></p>
-              <ul>
-                <li>https://ieeexplore.ieee.org/abstract/document/9418153</li>
-              </ul>
-            </div>
-            <div class="resume-item pb-0">
-              <h4>Software Bug Predictor</h4>
-              <p><em>Built a Software Bug Predictor analysing Java based projects, collecting data from GitHub repositories, classifying information as Java CKJM metrics. Tested on over 20k commits. Conducted research and development and wrote scripts in Python for data collection, manipulation, and machine learning models used in prediction, reducing development time by up to 20%. Built a front-end using Electron on Linux/Unix environment.</em></p>
-              <ul>
-                <li>https://github.com/tavishjain/Software-Bug-Predictor</li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-lg-6">
-
-            <h3 class="resume-title">Professional Experience</h3>
-
-              <div class="resume-item">
-                <h4>Schlumberger - Backend Software Engineer (Current)</h4>
-                <p>Working on Databases and Backend technologies at PuTC</p>
-              </div>
-
-              <div class="resume-item">
-                <h4>Samsung R&D Institute, Noida - Software Engineering Intern (June 2020 - November 2020)</h4>
-                <p>Working under the Project titled "Handwriting Recognition from Medical Precriptions" with the R&D team at Samsung Noida and Samsung Digital Academy Research Lab DTU.</p>
-              </div>
-
-              <div class="resume-item">
-                <h4>Delhi Technological University - Undergraduate Researcher (August 2019 - June 2020)</h4>
-                <p>Working under the Project titled “Software Bug Predictor” by Principal Investigator, Dr. Ruchika Malhotra, Professor, and Associate Head, Department of Computer Science and Engineering, Delhi Technological University.</p>
-              </div>
-
-              <div class="resume-item">
-                <h4>The Energy and Resources Institute India - Software Engineering Intern (December 2019 - January 2020)</h4>
-                <p>As a Software Engineering Intern, involved in data science, analysis and Multi variate Time Series prediction of the Air Quality Index with LSTM's and Recurrent Neural Networks in Python. Used Tensorflow, Keras and python libraries like pandas, numpy, sci-kit learn, seaborn etc for data preprocessing and manipulation.</p>
-              </div>
-
-            </div>
-
-            <!-- <h3 class="resume-title">Self-initiated Projects</h3>
-              <div class="resume-item">
-                <h4>GreySeed Studio - Oasis</h4>
-                <h5>Personalised Gaming platform</h5>
-                <p>Created a platform with an ML-based recommendation
-                    system for indie games for a niche user base.
-                    Enrolled into YCombinatorSUS</p>
-                <a href="https://greyseedstudio.com">https://greyseedstudio.com</a>
-
-              </div>
-              <div class="resume-item">
-                <h4>FundMeCo</h4>
-                <h5>Investors-List WebApp</h5>
-                <p>A web app for startup founders to discover and contact
-                    investors, incubators and accelerator programs according
-                    to the stage, industry , investment requirement</p>
-                <a href="https://fundme-68493.web.app/">https://fundme-68493.web.app/</a>
-              </div>
-              <div class="resume-item">
-                <h4>Asteroid : A cosmic drift-off</h4>
-                <h5>Smartphone game</h5>
-                <p>Developed and released a game on playstore.</p>
-                <a href="https://play.google.com/store/apps/details?id=com.GreySeed.Asteroid">https://play.google.com/store/apps/details?id=com.GreySeed.Asteroid</a>
-                
-              </div> -->
-          </div>
-        </div>
-
-      </div>
-    </section>
+    </section><!-- End Skills Section -->
 
     <!-- ======= Frameworks Section ======= -->
     <section id="frameworks" class="skills section-bg">
@@ -392,18 +263,16 @@
         </div>
 
         <div id="frameworks-container" class="frameworks-container">
-          <span class="frameworks-item"><img src="https://img.icons8.com/color/500/000000/python.png"/><p class="detail">Python</p></span>
-          <span class="frameworks-item"><img src="https://img.icons8.com/color/500/000000/c-plus-plus-logo.png"/><p class="detail">C++</p></span>
-          <span class="frameworks-item"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 172 172" style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ffffff"><path d="M65.36,6.88c-1.37112,-0.00052 -2.61164,0.81317 -3.15738,2.071c-0.54574,1.25783 -0.29249,2.71962 0.64456,3.72056l11.2136,11.96609l-11.60328,18.23469c-0.81893,1.28882 -0.69034,2.96321 0.31578,4.11187l27.09,30.96c0.65256,0.74632 1.59535,1.17486 2.58672,1.17578h48.59c1.89978,-0.00019 3.43981,-1.54022 3.44,-3.44v-20.64h10.32v44.72h6.88v-44.72h3.44c1.39103,-0.00055 2.64485,-0.8387 3.17714,-2.12385c0.53229,-1.28515 0.23831,-2.76439 -0.74495,-3.74834l-41.28,-41.28c-0.64504,-0.64512 -1.5199,-1.00764 -2.43219,-1.00781zM73.30156,13.76h49.11406l34.4,34.4h-51.26406zM78.91844,29.81781l22.62875,24.13375c0.6509,0.6949 1.56068,1.08897 2.51281,1.08844h33.54v17.2h-43.59125l-24.36219,-27.84922zM22.79,44.72c-4.97768,0 -9.03,4.07199 -9.03,9.07031v85.05937c0,4.99832 4.05232,9.07031 9.03,9.07031h42.57c0,5.54612 -4.62713,10.32 -10.32,10.32c-1.88089,0.0266 -3.39169,1.55892 -3.39169,3.44c0,1.88108 1.5108,3.4134 3.39169,3.44h48.16c1.88089,-0.0266 3.39169,-1.55892 3.39169,-3.44c0,-1.88108 -1.5108,-3.4134 -3.39169,-3.44c-5.69287,0 -10.32,-4.77388 -10.32,-10.32h42.57c4.97768,0 9.03,-4.07199 9.03,-9.07031v-52.84969h-6.88v34.4h-116.96v-66.60969c0,-1.204 0.9632,-2.19031 2.15,-2.19031h34.5411c-1.59616,-1.98832 -2.33383,-4.44104 -2.23063,-6.88zM158.24,106.64c-3.8012,0 -6.88,3.0788 -6.88,6.88c0,3.8012 6.88,13.76 6.88,13.76c0,0 6.88,-9.9588 6.88,-13.76c0,-3.8012 -3.0788,-6.88 -6.88,-6.88zM20.64,127.28h116.96v11.56969c0,1.204 -0.9632,2.19031 -2.15,2.19031h-112.66c-1.1868,0 -2.15,-0.98631 -2.15,-2.19031zM79.12,130.72c-1.89986,0 -3.44,1.54014 -3.44,3.44c0,1.89986 1.54014,3.44 3.44,3.44c1.89986,0 3.44,-1.54014 3.44,-3.44c0,-1.89986 -1.54014,-3.44 -3.44,-3.44zM72.24,147.92h13.76c0,3.91129 1.57067,7.39681 3.8364,10.32h-21.43281c2.26574,-2.92319 3.8364,-6.40871 3.8364,-10.32z"></path></g></g></svg><p class="detail">Machine Learning</p></span>
-          <span class="frameworks-item"><img src="https://img.icons8.com/color/500/000000/learning.png"/><p class="detail">Deep Learning</p></span>
-          <span class="frameworks-item"><img src="https://img.icons8.com/color/500/000000/tensorflow.png"/><p class="detail">Tensorflow</p></span>
-          <span class="frameworks-item"><img src="https://img.icons8.com/fluency/500/000000/azure-1.png"/><p class="detail">Azure DevOps</p></span>
-          <span class="frameworks-item"><img src="https://img.icons8.com/ios-filled/500/26e07f/android-os.png"/><p class="detail">Android Studio</p></span>
+          <span class="frameworks-item"><img src="https://img.icons8.com/ios-filled/500/26e07f/android-os.png"/><p class="detail">Android-Studio</p></span>
+          <span class="frameworks-item"><img src="https://img.icons8.com/color/480/000000/django.png"/><p class="detail">Django</p></span>
+          <span class="frameworks-item"><img src="https://img.icons8.com/color/480/000000/python.png"/><p class="detail">Python</p></span>
           <span class="frameworks-item"><img src="https://img.icons8.com/color/500/000000/html-5--v1.png"/><p class="detail">HTML5</p></span>
           <span class="frameworks-item"><img src="https://img.icons8.com/color/500/000000/css3.png"/><p class="detail">CSS3</p></span>
-          <span class="frameworks-item"><img src="https://img.icons8.com/color/500/000000/postgreesql.png"/><p class="detail">PostgreSQL</p></span>
-          <span class="frameworks-item"><img src="https://img.icons8.com/color/500/000000/git.png"/><p class="detail">Git</p></span>
-          <span class="frameworks-item"><img src="https://img.icons8.com/color/500/000000/google-cloud.png"/><p class="detail">Google Cloud Platform</p></span>
+          <span class="frameworks-item"><img src="https://img.icons8.com/ios-filled/480/ffd600/javascript-logo.png"/><p class="detail">JavaScript</p></span>
+          <span class="frameworks-item"><img src="https://img.icons8.com/dotty/480/4a90e2/react.png"/><p class="detail">ReactJS</p></span>
+          <span class="frameworks-item"><img src="https://img.icons8.com/ios-filled/500/000000/unity.png" id="unityImg"/><p class="detail">Unity 3D</p></span>
+          <span class="frameworks-item"><img src="https://img.icons8.com/color/500/000000/c-plus-plus-logo.png"/><p class="detail">C++</p></span>
+          <span class="frameworks-item"><img src="https://img.icons8.com/color/500/000000/c-sharp-logo.png"/><p class="detail">C#</p></span>
         </div>
         
 
@@ -422,82 +291,72 @@
           <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-deep">Deep Learning</li>
-              <li data-filter=".filter-research">Research Experience</li>
-              <li data-filter=".filter-android">Android Development</li>
-              <li data-filter=".filter-backend">Backend Development</li>
+              <li data-filter=".filter-app">App</li>
+              <li data-filter=".filter-game">Game</li>
+              <li data-filter=".filter-web">Web</li>
             </ul>
           </div>
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-research">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/placeholder-image.png" class="img-fluid rounded-sm" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap" onclick="window.open('https://greyseedstudio.com/','new_window');">
+              <img src="assets/img/portfolio/greyseed.png" class="img-fluid rounded-sm" alt="">
               <div class="portfolio-info">
-                <h4>Handwriting Recognition using Deep Learning</h4>
-                <p>Devised a medical prescription detection technique based on Deep Learning. Built a CRNN model with Connectionist Temporal Classification. We also devised a data preprocessing technique, wherein the input image is grayscaled, blurred(gaussian) and dilated to extract text line by line, which is fed as inputs to the deep learning model. A full paper has been accepted at the IEEE 6th International Conference for Convergence in Technology</p>
+                <h4>GreySeed Studio</h4>
+                <p>Website</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-deep">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/placeholder-image.png" class="img-fluid rounded-sm" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap" onclick="window.open('https://bunndle.vercel.app/','new_window');">
+              <img src="assets/img/portfolio/bunndle.png" class="img-fluid rounded-sm" alt="">
               <div class="portfolio-info">
-                <h4>Part of Speech Tagging - NLP</h4>
-                <p>Used the Pomegranate library to build a hidden Markov model for part of speech tagging, with an accuracy of 97%. Part-of-speech tagging, also called grammatical tagging, is the process of marking up a word in a corpus as corresponding to a particular part of speech, based on both its definition and its context.</p>
+                <h4>Bunndle</h4>
+                <p>Website</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-deep">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/placeholder-image.png" class="img-fluid rounded-sm" alt="">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-game">
+            <div class="portfolio-wrap" onclick="window.open('https://play.google.com/store/apps/details?id=com.GreySeed.Asteroid','new_window');">
+              <img src="assets/img/portfolio/asteroid.png" class="img-fluid rounded-sm" alt="">
               <div class="portfolio-info">
-                <h4>Automatic Speech Recognition</h4>
-                <p>Built a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline. The model converts raw audio into feature representations, which will then turn them into transcribed text.</p>
+                <h4>Asteroid</h4>
+                <p>Game</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-backend">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/placeholder-image.png" class="img-fluid rounded-sm" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app filter-game">
+            <div class="portfolio-wrap" onclick="window.open('https://github.com/ParthSharma99/Contact-The_Game','new_window');">
+              <img src="assets/img/portfolio/contact-game.png" class="img-fluid rounded-sm" alt="">
               <div class="portfolio-info">
-                <h4>Software Bug Predictor</h4>
-                <p>Built a Software Bug Predictor analysing Java based projects, collecting data from GitHub repositories, classifying information as Java CKJM metrics. Tested on over 20k commits. Conducted research and development and wrote scripts in Python for data collection, manipulation, and machine learning models used in prediction, reducing development time by up to 20%. Built a front-end using Electron on Linux/Unix environment</p>
+                <h4>Contact - The Game</h4>
+                <p>Android App</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-deep">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/placeholder-image.png" class="img-fluid rounded-sm" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap" onclick="window.open('https://fundme-68493.web.app/','new_window');">
+              <img id="fundmeImg" src="assets/img/portfolio/fundme.png" class="img-fluid rounded-sm" alt="">
               <div class="portfolio-info">
-                <h4>Image Caption Generator</h4>
-                <p>Developed an image caption generator that generates captions for the provided image. Used CNN’s as encoders to extract features from the image and RNN’s as decoders to do language modeling.</p>
+                <h4>FundMeCo</h4>
+                <p>Website</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-deep">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/placeholder-image.png" class="img-fluid rounded-sm" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-game">
+            <div class="portfolio-wrap" onclick="window.open('https://github.com/ParthSharma99/HackIIITD-hack.run','new_window');">
+              <img src="assets/img/portfolio/hello-music.png" class="img-fluid rounded-sm" alt="">
               <div class="portfolio-info">
-                <h4>Trigger Word Detection</h4>
-                <p>Built a Trigger Word Detection Model using convolutional Layers and Gated Recurrent Units. It is based on Natural Language Processing, the technology that allows devices like Amazon Alexa, Google Home, and Apple Siri to wake up upon hearing a certain word. Building an Android application for the same.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-android">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/placeholder-image.png" class="img-fluid rounded-sm" alt="">
-              <div class="portfolio-info">
-                <h4>Take Care</h4>
-                <p>I am developing an Android application that detects user’s mental health based on their search and word choices. The application would analyse the user word choices with the help of on-device Machine Learning to calculate the results. A record of what user’s search relates to (being depressed or not depressed) will be saved on the device, and an active graphical analysis could be viewed for it.</p>
+                <h4>Hello Music</h4>
+                <p>AR Game</p>
               </div>
             </div>
           </div>
@@ -506,6 +365,109 @@
 
       </div>
     </section><!-- End Portfolio Section -->
+
+    <!-- ======= Resume Section ======= -->
+    <section id="resume" class="resume">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Resume</h2>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6">
+            <h3 class="resume-title">Education</h3>
+            <div class="resume-item">
+              <h4>Bachelor of Technology - Software Engineering</h4>
+              <h5>2017 - 2021</h5>
+              <p><em>Delhi Technological University, Delhi, IN</em></p>
+              <p>GPA : 9.04</p>
+            </div>
+            <div class="resume-item">
+              <h4>PCM Computer science</h4>
+              <h5>2005 - 2014</h5>
+              <p><em>Amity International School, Delhi, IN</em></p>
+              <p>Aggregate : 94%</p>
+            </div>
+            <h3 class="resume-title">Research Projects</h3>
+            <div class="resume-item pb-0">
+              <h4>Hybrid Technique to handle imbalance data
+                In softwares defect prediction</h4>
+              <p><em>Compared and analyzed a hybrid technique, SAGA (SMOTE +
+                AdaSS + Genetic Algorithm), for solving the imbalance problem
+                faced in software defect prediction. SAGA employs ensemble
+                classification based on feature space partitioning in conjunction
+                with SMOTE oversampling. Various parameters related to
+                feature space partitioning are optimized using the Genetic
+                Algorithm.</em></p>
+              <ul>
+                <li>https://ieeexplore.ieee.org/abstract/document/9431842</li>
+              </ul>
+            </div>
+            <div class="resume-item pb-0">
+              <h4>Hybrid technique to determined most influential
+                Nodes in a network</h4>
+              <p><em>A comparison study on detecting influential nodes based
+                on different types of gravity-based centrality.
+                Our aim was to compare basic centrality measures with
+                gravity-based centrality in order to compare various
+                nodes and conclude on how these different centrality
+                affects different network datasets based on their number
+                of nodes, fraction of actual spreaders, etc</em></p>
+            </div>
+          </div>
+          <div class="col-lg-6">
+
+            <h3 class="resume-title">Professional Experience</h3>
+            <div class="resume-item">
+              <h4>Qualcomm - Associate Engineer (Current)</h4>
+              <p>Work on tools development to parse and visualize performance data</p>
+
+            </div>
+            <div class="resume-item">
+              <h4>Qualcomm - Software Engineer Intern</h4>
+              <p>Worked on developing an android app service which can
+                perform on-device training.</p>
+
+            </div>
+            <div class="resume-item">
+              <h4>HCL Technologies</h4>
+              <p>Developed an IoT program to detect temperature variations
+                in the room using LM35 temperature sensor integrated with
+                Arduino chipset.</p>
+            </div>
+
+            <h3 class="resume-title">Self-initiated Projects</h3>
+            <div class="resume-item">
+              <h4>GreySeed Studio - Oasis</h4>
+              <h5>Personalised Gaming platform</h5>
+              <p>Created a platform with an ML-based recommendation
+                  system for indie games for a niche user base.
+                  Enrolled into YCombinatorSUS</p>
+              <a href="https://greyseedstudio.com">https://greyseedstudio.com</a>
+
+            </div>
+            <div class="resume-item">
+              <h4>FundMeCo</h4>
+              <h5>Investors-List WebApp</h5>
+              <p>A web app for startup founders to discover and contact
+                  investors, incubators and accelerator programs according
+                  to the stage, industry , investment requirement</p>
+              <a href="https://fundme-68493.web.app/">https://fundme-68493.web.app/</a>
+            </div>
+            <div class="resume-item">
+              <h4>Asteroid : A cosmic drift-off</h4>
+              <h5>Smartphone game</h5>
+              <p>Developed and released a game on playstore.</p>
+              <a href="https://play.google.com/store/apps/details?id=com.GreySeed.Asteroid">https://play.google.com/store/apps/details?id=com.GreySeed.Asteroid</a>
+              
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Resume Section -->
 
     <!-- ======= Services Section ======= -->
     <!-- <section id="services" class="services">
@@ -707,7 +669,7 @@
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>jaintavish@gmail.com/p>
+                <p>parthpsharma99@gmail.com</p>
               </div>
 
             </div>
@@ -726,24 +688,24 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <h3>Tavish Jain</h3>
+      <h3>Parth Sharma</h3>
       <div class="social-links">
-        <a href="https://github.com/tavishjain"  target="_blank" class="github"><i class='bx bxl-github'></i></a>
-        <a href="https://www.linkedin.com/in/tavishjain"  target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-        <a href="https://twitter.com/iAmTavishJain"  target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="https://github.com/ParthSharma99"  target="_blank" class="github"><i class='bx bxl-github'></i></a>
+        <a href="https://www.linkedin.com/in/parth-sharma99/"  target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://twitter.com/ParthSharma__"  target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
       </div>
       <div class="info">
         
         <div class="email" onclick="copyMail(this)">
-          <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="35" height="35" viewBox="0 0 172 172" style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ffbc33"><path d="M37.625,28.66667c-12.79944,0 -23.29167,10.49222 -23.29167,23.29167v68.08333c0,12.79944 10.49222,23.29167 23.29167,23.29167h96.75c12.79944,0 23.29167,-10.49222 23.29167,-23.29167v-68.08333c0,-12.79944 -10.49222,-23.29167 -23.29167,-23.29167zM37.625,39.41667h96.75c6.98772,0 12.54167,5.55394 12.54167,12.54167v3.96126l-60.91667,32.92887l-60.91667,-32.92887v-3.96126c0,-6.98772 5.55394,-12.54167 12.54167,-12.54167zM25.08333,68.13932l58.36214,31.55013c1.59419,0.86101 3.51486,0.86101 5.10905,0l58.36214,-31.55013v51.90234c0,6.98772 -5.55394,12.54167 -12.54167,12.54167h-96.75c-6.98772,0 -12.54167,-5.55394 -12.54167,-12.54167z"></path></g></g></svg>
+          <i class="bi bi-envelope"></i>
           <!-- <h4>Email:</h4> -->
-          <p id="myMail">jaintavish@gmail.com</p>
+          <p id="myMail">parthpsharma99@gmail.com</p>
         </div>
 
         <div class="address">
-          <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="35" height="35" viewBox="0 0 172 172" style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ffbc33"><path d="M86,14.40332c-27.63467,0 -50.11068,22.49001 -50.11068,50.12467c0,32.12817 42.76138,84.31774 44.58171,86.5179l5.52897,6.70475l5.52897,-6.70475c1.82033,-2.20733 44.58171,-54.38974 44.58171,-86.5179c-0.00001,-27.64183 -22.47601,-50.12467 -50.11068,-50.12467zM86,28.73665c19.72983,0 35.77735,16.06151 35.77735,35.79134c-0.00001,19.38583 -22.31835,52.72707 -35.77735,70.3929c-13.459,-17.6515 -35.77734,-50.97841 -35.77734,-70.3929c0,-19.72983 16.04751,-35.79134 35.77734,-35.79134zM86,46.58333c-9.89717,0 -17.91667,8.0195 -17.91667,17.91667c0,9.89717 8.0195,17.91667 17.91667,17.91667c9.89717,0 17.91667,-8.0195 17.91667,-17.91667c0,-9.89717 -8.0195,-17.91667 -17.91667,-17.91667z"></path></g></g></svg>
+          <i class="bi bi-geo-alt"></i>
           <!-- <h4>Location:</h4> -->
-          <p>India</p>
+          <p>New Delhi, IN</p>
         </div>
 
       </div>
@@ -753,10 +715,7 @@
   <!-- End Footer -->
 
   <div id="preloader"></div>
-  <a href="index.html#" class="back-to-top d-flex align-items-center justify-content-center"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-    width="25" height="25"
-    viewBox="0 0 172 172"
-    style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ffffff"><path d="M86,23.94954c-1.83377,0 -3.66597,0.71252 -5.06706,2.11361l-40.53646,40.53646c-2.80217,2.795 -2.80217,7.33195 0,10.13411l0.61588,0.61589c2.795,2.80217 7.33195,2.80217 10.13412,0l27.68685,-27.68685v93.67057c0,3.956 3.21067,7.16667 7.16667,7.16667c3.956,0 7.16667,-3.21067 7.16667,-7.16667v-93.67057l27.68685,27.68685c2.795,2.80217 7.33195,2.80217 10.13412,0l0.61588,-0.61589c2.80217,-2.795 2.80217,-7.33195 0,-10.13411l-40.53646,-40.53646c-1.3975,-1.40108 -3.23328,-2.11361 -5.06706,-2.11361z"></path></g></g></svg></a>
+  <a href="apple-touch-icon.png#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/aos/aos.js"></script>
